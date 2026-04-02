@@ -1,5 +1,3 @@
- ## English
-
 ### 👋 😁 Hi, there are some **notices** and **tips** of our project, I hope you think they're useful!
 
 - 1️⃣ First, the `MainActivity.kt`, is at **/app/src/main/java/com/example/omg_by_clark**, really long, right? 😑
